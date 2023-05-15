@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+
+\bibitem{harper2015movielens}
+F.~Maxwell Harper and Joseph~A. Konstan.
+\newblock The movielens datasets: History and context.
+\newblock \url{https://doi.org/10.1145/2827872}, 2015.
+\newblock Accessed on: \today.
+
+\bibitem{koren2009matrix}
+Yehuda Koren, Robert Bell, and Chris Volinsky.
+\newblock Matrix factorization techniques for recommender systems.
+\newblock {\em Computer}, 42(8):30--37, 2009.
+
+\bibitem{steffen2009bayesian}
+Rendle Steffen, Freudenthaler Christoph, Gantner Zeno, and Schmidt-Thieme Lars.
+\newblock Bayesian personalized ranking from implicit feedback.
+\newblock In {\em Proceedings of the twenty-fifth conference on uncertainty in
+  artificial intelligence. AUAI Press}, 2009.
+
+\end{thebibliography}

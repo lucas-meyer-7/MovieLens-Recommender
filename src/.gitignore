@@ -1,3 +1,7 @@
 # Data folders
 ml-latest-small/
 ml-25m/
+
+# Python stuff
+__pycache__/
+.ipynb_checkpoints
