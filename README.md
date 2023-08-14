@@ -1,5 +1,4 @@
 # MovieLens recommender system
-## Lucas Meyer
 
 The repository is structured as follows:
  - ``report``: Contains the LaTeX code that was used to create the final report.
